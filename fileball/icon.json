@@ -1,1 +1,9 @@
-{"name":"Fileball icons", "description":"by Lucas", "icons":[{"name":"Jianguoyun", "url":"https://raw.githubusercontent.com/LibertyLucas/Img/main/fileball/Jianguoyun.png"}]}
+{"name":"Fileball icons", "description":"by Lucas",
+ "icons":[
+   {"name":"Jianguoyun", 
+    "url":"https://raw.githubusercontent.com/LibertyLucas/Img/main/fileball/Jianguoyun.png"
+   },
+   {"name":Aliyunpan",
+    "url":https://raw.githubusercontent.com/LibertyLucas/Img/main/fileball/Aliyunpan.png"
+   }
+ ]}
